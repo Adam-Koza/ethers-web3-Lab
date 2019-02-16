@@ -1,0 +1,72 @@
+{
+  "args": [
+    100
+  ],
+  "className": "SimpleDemo",
+  "code": "608060405234801561001057600080fd5b506040516020806101808339810180604052602081101561003057600080fd5b505160025560018054600160a060020a0319163317905561012a806100566000396000f3fe60806040526004361060485763ffffffff7c01000000000000000000000000000000000000000000000000000000006000350416633c68eb818114604d578063795612d6146061575b600080fd5b348015605857600080fd5b50605f6067565b005b605f60d0565b6000805473ffffffffffffffffffffffffffffffffffffffff19163317815560015460025460405173ffffffffffffffffffffffffffffffffffffffff929092169281156108fc029290818181858888f1935050505015801560cd573d6000803e3d6000fd5b50565b6000805473ffffffffffffffffffffffffffffffffffffffff191633179055600254341460fc57600080fd5b56fea165627a7a72305820c5bb15cc247bef42f37a5ce28aefb3556f051c994573984d601c7ec7072dd73a0029",
+  "runtimeBytecode": "60806040526004361060485763ffffffff7c01000000000000000000000000000000000000000000000000000000006000350416633c68eb818114604d578063795612d6146061575b600080fd5b348015605857600080fd5b50605f6067565b005b605f60d0565b6000805473ffffffffffffffffffffffffffffffffffffffff19163317815560015460025460405173ffffffffffffffffffffffffffffffffffffffff929092169281156108fc029290818181858888f1935050505015801560cd573d6000803e3d6000fd5b50565b6000805473ffffffffffffffffffffffffffffffffffffffff191633179055600254341460fc57600080fd5b56fea165627a7a72305820c5bb15cc247bef42f37a5ce28aefb3556f051c994573984d601c7ec7072dd73a0029",
+  "realRuntimeBytecode": "60806040526004361060485763ffffffff7c01000000000000000000000000000000000000000000000000000000006000350416633c68eb818114604d578063795612d6146061575b600080fd5b348015605857600080fd5b50605f6067565b005b605f60d0565b6000805473ffffffffffffffffffffffffffffffffffffffff19163317815560015460025460405173ffffffffffffffffffffffffffffffffffffffff929092169281156108fc029290818181858888f1935050505015801560cd573d6000803e3d6000fd5b50565b6000805473ffffffffffffffffffffffffffffffffffffffff191633179055600254341460fc57600080fd5b56fea165627a7a72305820",
+  "swarmHash": "c5bb15cc247bef42f37a5ce28aefb3556f051c994573984d601c7ec7072dd73a",
+  "gasEstimates": {
+    "creation": {
+      "codeDepositCost": "59600",
+      "executionCost": "40476",
+      "totalCost": "100076"
+    },
+    "external": {
+      "buyItem()": "20573",
+      "transferFunds()": "infinite"
+    }
+  },
+  "functionHashes": {
+    "buyItem()": "795612d6",
+    "transferFunds()": "3c68eb81"
+  },
+  "abiDefinition": [
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "transferFunds",
+      "outputs": [],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "function",
+      "signature": "0x3c68eb81"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "buyItem",
+      "outputs": [],
+      "payable": true,
+      "stateMutability": "payable",
+      "type": "function",
+      "signature": "0x795612d6"
+    },
+    {
+      "inputs": [
+        {
+          "name": "_integer",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "constructor",
+      "signature": "constructor"
+    }
+  ],
+  "filename": "SimpleDemo.sol",
+  "gas": 180313,
+  "gasPrice": "20000000000",
+  "type": "file",
+  "deploy": true,
+  "_gasLimit": false,
+  "error": false,
+  "deploymentAccount": "0x0824C80b180a40743C84B16Ce05BCAe6f7698166",
+  "realArgs": [
+    100
+  ],
+  "deployedAddress": "0x942a595299750c0609199b98C93D769bF2FB3cd5",
+  "transactionHash": "0x31246ad8905329d2cc8d983a66b384d5f2414228e9648bd3699e388bb1d1b824"
+}
