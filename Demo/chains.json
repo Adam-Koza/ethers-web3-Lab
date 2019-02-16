@@ -22,5 +22,37 @@
         "address": "0x942a595299750c0609199b98C93D769bF2FB3cd5"
       }
     }
+  },
+  "0xf2ab5b8cbd9acbf9d82aa755f4592db4d30dcfa4ee6b7e9bc18c6496d5fbe04a": {
+    "contracts": {
+      "0xf730d9ebf7bb31448722e66901232ef8a01f4d92160926bdb9cd3423d4bd03b5": {
+        "name": "SimpleDemo",
+        "address": "0x359631D95B28d21EB362Aecd8D38EE7C27D80328"
+      }
+    }
+  },
+  "0x37246da87f6a529806d367cd5a8dbb699a43efcabe1c552696d41ad7cf598f14": {
+    "contracts": {
+      "0xf730d9ebf7bb31448722e66901232ef8a01f4d92160926bdb9cd3423d4bd03b5": {
+        "name": "SimpleDemo",
+        "address": "0x359631D95B28d21EB362Aecd8D38EE7C27D80328"
+      }
+    }
+  },
+  "0x27a5a8eba1c10e4fea517842b2ca6954a9bfb59e4f12381de3c0b4e768fa7091": {
+    "contracts": {
+      "0xf730d9ebf7bb31448722e66901232ef8a01f4d92160926bdb9cd3423d4bd03b5": {
+        "name": "SimpleDemo",
+        "address": "0x359631D95B28d21EB362Aecd8D38EE7C27D80328"
+      }
+    }
+  },
+  "0x63d09a19b177e70fecff84ce122c7fcbd1637bfa98a43ec9981ed42ed630fffa": {
+    "contracts": {
+      "0xf730d9ebf7bb31448722e66901232ef8a01f4d92160926bdb9cd3423d4bd03b5": {
+        "name": "SimpleDemo",
+        "address": "0x359631D95B28d21EB362Aecd8D38EE7C27D80328"
+      }
+    }
   }
 }

@@ -52,6 +52,9 @@ contract("SimpleDemo", function () {
     let num5 = new BNweb('0xea').toString();
     let num6 = new BNethers('0xea').toString();
 
+    console.log(num5);
+    console.log(num6);
+
 // "234"
     assert.ok(num5 == num6);
   });
