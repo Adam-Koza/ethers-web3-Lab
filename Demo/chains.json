@@ -54,5 +54,21 @@
         "address": "0x359631D95B28d21EB362Aecd8D38EE7C27D80328"
       }
     }
+  },
+  "0x5f49d1384eb2094b2fa220b8e8684c367f47f720f762d6e185bda4a15570bc3e": {
+    "contracts": {
+      "0xf730d9ebf7bb31448722e66901232ef8a01f4d92160926bdb9cd3423d4bd03b5": {
+        "name": "SimpleDemo",
+        "address": "0x359631D95B28d21EB362Aecd8D38EE7C27D80328"
+      }
+    }
+  },
+  "0x8b2c88440ee233233ed849c56eb86f04d9323d5c67b65c449408f672aa1284ac": {
+    "contracts": {
+      "0xf730d9ebf7bb31448722e66901232ef8a01f4d92160926bdb9cd3423d4bd03b5": {
+        "name": "SimpleDemo",
+        "address": "0x359631D95B28d21EB362Aecd8D38EE7C27D80328"
+      }
+    }
   }
 }
