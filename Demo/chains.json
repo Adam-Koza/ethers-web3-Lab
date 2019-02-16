@@ -1,0 +1,26 @@
+{
+  "0xdfc8235013cd97ff0799932304040313d12cd7c47286db0765327f11f960c87c": {
+    "contracts": {
+      "0x812a40ad335b86690b40574779268edea48b516e989c5647256c3650e6832a8e": {
+        "name": "SimpleDemo",
+        "address": "0x359631D95B28d21EB362Aecd8D38EE7C27D80328"
+      }
+    }
+  },
+  "0xb5d1039c4360adb611241c4a345db8d7c5dbc9f07a0d0224b2bb67912c78682a": {
+    "contracts": {
+      "0xf730d9ebf7bb31448722e66901232ef8a01f4d92160926bdb9cd3423d4bd03b5": {
+        "name": "SimpleDemo",
+        "address": "0x359631D95B28d21EB362Aecd8D38EE7C27D80328"
+      }
+    }
+  },
+  "0x02d5045ee040c1d6ad3e9a3529832be9393b805d2dccf6f0ffc174bfca8a2b38": {
+    "contracts": {
+      "0x812a40ad335b86690b40574779268edea48b516e989c5647256c3650e6832a8e": {
+        "name": "SimpleDemo",
+        "address": "0x942a595299750c0609199b98C93D769bF2FB3cd5"
+      }
+    }
+  }
+}
