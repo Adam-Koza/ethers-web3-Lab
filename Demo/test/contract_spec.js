@@ -37,20 +37,23 @@ contract("SimpleDemo", function () {
     const BNweb = web3.utils.BN;
     const BNethers = ethers.utils.bigNumberify;
 
-    new BNweb(1234).toString();
-    new BNethers(1234)
+    let num1 = new BNweb(1234).toString();
+    let num2 = new BNethers(1234).toString();
 // "1234"
+    assert.ok(num1 == num2);
 
-    new BNweb('1234').add(new BNweb('1')).toString();
-    new BNethers('1234').add(new BNethers('1')).toString();
+
+    let num3 = new BNweb('1234').add(new BNweb('1')).toString();
+    let num4 = new  BNethers('1234').add(new BNethers('1')).toString();
+
 // "1235"
+    assert.ok(num3 == num4);
 
-    new BNweb('0xea').toString();
-    new BNethers('0xea').toString();
+    let num5 = new BNweb('0xea').toString();
+    let num6 = new BNethers('0xea').toString();
+
 // "234"
-    let addressOfContract = SimpleDemo.options.address;
-    console.log(addressOfContract);
-    assert.ok(addressOfContract.length > 0);
+    assert.ok(num5 == num6);
   });
 
 
